@@ -6,8 +6,15 @@
 	flex-wrap: wrap;
 }
 
-.grid div {
+.squares {
 	height: 20px;
 	width: 20px;
+}
+.player_one{
+	background-color: red;
+	border-radius: 10px;
+}
+.player_two{
 	background-color: blue;
+	border-radius: 10px;
 }
